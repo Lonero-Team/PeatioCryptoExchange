@@ -298,6 +298,7 @@ cs:
       doge: DOGE
       pts: PTS
       ltc: LTC
+      lnr: LNR
   currency:
     satoshi:
       key: BTC
@@ -308,6 +309,11 @@ cs:
       key: BTS
       code: BTSX
       name: BitsharesX
+      format: '0,0.0000'
+    Lonero:
+      key: LNR
+      code: LNR
+      name: Lonero
       format: '0,0.0000'
     renminbi:
       key: CNY
