@@ -290,11 +290,12 @@ en:
     gdb: Guangdong Development Bank
     psbc: Postal Savings Bank of China
   market:
-    currency:
+  currency:
       btc: BTC
       eth: ETH
       cny: CNY
       doge: DOGE
+      lnr: LNR
       pts: PTS
       ltc: LTC
   currency:
@@ -302,6 +303,11 @@ en:
       key: BTC
       code: BTC
       name: Bitcoin
+      format: '0,0.0000'
+    Lonero:
+      key: LNR
+      code: LNR
+      name: Lonero
       format: '0,0.0000'
     ether:
       key: ETH
